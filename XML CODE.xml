@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Student_Info>
+
+    <Student_Details id="1">
+        <StudentID>01</StudentID>
+        <FullName>Rohit Shahi</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Data Analytics</CourseName>
+        <DateOfBirth>27/08/2003</DateOfBirth>
+        <Email>rohitshahi@gmail.com</Email>
+        <PhoneNumber>7896541230</PhoneNumber>
+        <Address>Dehradun</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="2">
+        <StudentID>02</StudentID>
+        <FullName>Ishika James</FullName>
+        <Gender>Female</Gender>
+        <CourseName>Data Analytics</CourseName>
+        <DateOfBirth>15/03/2005</DateOfBirth>
+        <Email>ishikajames@gmail.com</Email>
+        <PhoneNumber>4587963212</PhoneNumber>
+        <Address>Dehradun</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="3">
+        <StudentID>03</StudentID>
+        <FullName>Atul Passi</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Data Science</CourseName>
+        <DateOfBirth>02/05/2006</DateOfBirth>
+        <Email>atulpassi@gmail.com</Email>
+        <PhoneNumber>1452369875</PhoneNumber>
+        <Address>Dehradun</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="4">
+        <StudentID>04</StudentID>
+        <FullName>Rohan Kumar</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Video Editor</CourseName>
+        <DateOfBirth>17/05/2004</DateOfBirth>
+        <Email>rohankumar@gmail.com</Email>
+        <PhoneNumber>123695745</PhoneNumber>
+        <Address>Dehradun</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="5">
+        <StudentID>05</StudentID>
+        <FullName>Priyanka Sharma</FullName>
+        <Gender>Female</Gender>
+        <CourseName>UX/UI Design</CourseName>
+        <DateOfBirth>07/12/2002</DateOfBirth>
+        <Email>priyankasharma@gmail.com</Email>
+        <PhoneNumber>74685912300</PhoneNumber>
+        <Address>Delhi</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="6">
+        <StudentID>06</StudentID>
+        <FullName>Suhani Singh</FullName>
+        <Gender>Female</Gender>
+        <CourseName>Data Analytics</CourseName>
+        <DateOfBirth>01/08/2007</DateOfBirth>
+        <Email>suhanisharma@gmail.com</Email>
+        <PhoneNumber>14578963210</PhoneNumber>
+        <Address>Pune</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="7">
+        <StudentID>07</StudentID>
+        <FullName>Amit Kumar</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Data Analytics</CourseName>
+        <DateOfBirth>27/07/2001</DateOfBirth>
+        <Email>amitkumar@gmail.com</Email>
+        <PhoneNumber>4571541230</PhoneNumber>
+        <Address>Delhi</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="8">
+        <StudentID>08</StudentID>
+        <FullName>Sagar Sharma</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Data Analytics</CourseName>
+        <DateOfBirth>01/01/2007</DateOfBirth>
+        <Email>sagarsharma@gmail.com</Email>
+        <PhoneNumber>4785541230</PhoneNumber>
+        <Address>Mumbai</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="9">
+        <StudentID>09</StudentID>
+        <FullName>Suraj Rajput</FullName>
+        <Gender>Male</Gender>
+        <CourseName>Data Science</CourseName>
+        <DateOfBirth>27/01/2000</DateOfBirth>
+        <Email>surajrajput@gmail.com</Email>
+        <PhoneNumber>7584541230</PhoneNumber>
+        <Address>Delhi</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+    <Student_Details id="10">
+        <StudentID>10</StudentID>
+        <FullName>Suhana Singh</FullName>
+        <Gender>Female</Gender>
+        <CourseName>UX/UI</CourseName>
+        <DateOfBirth>27/01/2001</DateOfBirth>
+        <Email>suhanasingh@gmail.com</Email>
+        <PhoneNumber>4521541230</PhoneNumber>
+        <Address>Dehradun</Address>
+        <Department>IT</Department>
+    </Student_Details>
+
+</Student_Info>
