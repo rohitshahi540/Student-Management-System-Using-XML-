@@ -10,15 +10,18 @@ This root element is <Student_Info>, which contains multiple <Student_Details> e
 
 Each student has a unique ID and includes information like:
 
-1. Name                                         6. Phone Number    
+1. Name                                          
 
-2. Gender                                       7. Address
+2. Gender                                      
 
-3. Course                                        8. Department
+3. Course                                      
 
 4. Date of Birth
 
 5. Email
 
+6. Phone Number   
 
+7. Address
 
+8.   8. Department
