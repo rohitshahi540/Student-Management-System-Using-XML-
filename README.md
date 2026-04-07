@@ -24,4 +24,4 @@ Each student has a unique ID and includes information like:
 
 7. Address
 
-8.   8. Department
+8. Department
